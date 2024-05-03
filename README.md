@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kirti Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kk17421&label=Profile%20views&color=0e75b6&style=flat" alt="kk17421" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kk17421&label=Profile%20views&color=0e75b6&style=flat" alt="kirti-kumar-0001" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kk17421" target="blank"><img src="https://img.shields.io/twitter/follow/kk17421?logo=twitter&style=for-the-badge" alt="kk17421" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kk17421" target="blank"><img src="https://img.shields.io/twitter/follow/kk17421?logo=twitter&style=for-the-badge" alt="kirti-kumar-0001" /></a> </p>
 
 - 🌱 I’m currently learning **React Native ,Angular js**
 
